@@ -11,11 +11,11 @@
    边缘检测 ))
 5. ~~Corrosion & Expansion(腐蚀膨胀)~~
 
+## Filters
 
+### prewitt:
 
-### Lenna
-
-![](/home/butub/Desktop/homework3/outputs/Sobel.png)
+![](https://github.com/butub1/Edge-detection/blob/master/Submission/images/image3.png)
 
 可以看出x, y 分别提取x方向和y方向的边缘
 
